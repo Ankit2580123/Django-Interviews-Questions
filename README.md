@@ -22,4 +22,6 @@ Acts as the business logic layer, bridging Models and Templates.
 Processes user requests, retrieves data from models, and passes it to templates for rendering.
 Returns the final HTTP response to the user.
 
-
+### 3) What are the features available in Django web framework?
+- Features available in Django web framework are:
+- `Admin Interface (CRUD)`,`Templating`,`Form handling`,`Internationalization`,`A Session`, `user management`, `role-based permissions`,`Object-relational mapping (ORM)`,`Testing Framework`,`Fantastic Documentation`
