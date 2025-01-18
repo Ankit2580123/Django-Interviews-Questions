@@ -1,4 +1,4 @@
-``` # Django-Interviews-Questions
+ # Django-Interviews-Questions
 A curated collection of Django interview questions that I encountered during my interviews. This repository includes a mix of fundamental, advanced, and practical questions, making it a valuable resource for anyone preparing for Django-related job interviews. Perfect for brushing up on key concepts and gaining insights into frequently asked topics.
 
 ### 1) Explain Django.
@@ -22,4 +22,4 @@ Acts as the business logic layer, bridging Models and Templates.
 Processes user requests, retrieves data from models, and passes it to templates for rendering.
 Returns the final HTTP response to the user.
 
-```
+
