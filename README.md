@@ -17,7 +17,7 @@ Handles the presentation layer.
 Defines how data is presented to the user using HTML files combined with Django's template language.
 Provides dynamic content rendering by integrating context data from views.
 
--View:
+- View:
 Acts as the business logic layer, bridging Models and Templates.
 Processes user requests, retrieves data from models, and passes it to templates for rendering.
 Returns the final HTTP response to the user.
